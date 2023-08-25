@@ -1,0 +1,8 @@
+C:\Users\joao.vgbatista\source\repos\Atividade Cisney Real\Atividade Cisney Real\bin\Debug\Atividade Cisney Real.exe.config
+C:\Users\joao.vgbatista\source\repos\Atividade Cisney Real\Atividade Cisney Real\bin\Debug\Atividade Cisney Real.exe
+C:\Users\joao.vgbatista\source\repos\Atividade Cisney Real\Atividade Cisney Real\bin\Debug\Atividade Cisney Real.pdb
+C:\Users\joao.vgbatista\source\repos\Atividade Cisney Real\Atividade Cisney Real\obj\Debug\Atividade Cisney Real.csproj.AssemblyReference.cache
+C:\Users\joao.vgbatista\source\repos\Atividade Cisney Real\Atividade Cisney Real\obj\Debug\Atividade Cisney Real.csproj.SuggestedBindingRedirects.cache
+C:\Users\joao.vgbatista\source\repos\Atividade Cisney Real\Atividade Cisney Real\obj\Debug\Atividade Cisney Real.csproj.CoreCompileInputs.cache
+C:\Users\joao.vgbatista\source\repos\Atividade Cisney Real\Atividade Cisney Real\obj\Debug\Atividade Cisney Real.exe
+C:\Users\joao.vgbatista\source\repos\Atividade Cisney Real\Atividade Cisney Real\obj\Debug\Atividade Cisney Real.pdb
